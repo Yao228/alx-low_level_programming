@@ -15,3 +15,5 @@ File 6-abs.c is a function that computes the absolute value of an integer.
 File 7-print_last_digit.c is a function that prints the last digit of a number.
 
 File 8-24_hours.c is a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
+File 9-times_table.c is a function that prints the 9 times table, starting with 0.
