@@ -9,3 +9,5 @@ File 3-islower.c is a function that checks for lowercase character.
 File 4-isalpha.c is a function that checks for alphabetic character.
 
 File 5-sign.c is a function that prints the sign of a number.
+
+File 6-abs.c is a function that computes the absolute value of an integer.
