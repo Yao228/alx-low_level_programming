@@ -17,3 +17,5 @@ File 7-leet.c is a function that encodes a string into 1337.
 File 100-rot13.c is a function that encodes a string using rot13.
 
 File 101-print_number.c is afunction that prints an integer.
+
+File 102-magic.c add one line to magic.c code, so that the program prints a[2] = 98, followed by a new line.
