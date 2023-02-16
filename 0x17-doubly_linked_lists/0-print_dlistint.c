@@ -8,15 +8,14 @@
  */
 size_t print_dlistint(const dlistint_t *h)
 {
-	size_t size;
+	size_t node = 0;
 
-	size = 0;
 	while (h)
 	{
 		printf("%d\n", h->n);
 		h = h->next;
-		++size;
+		node++;
 	}
 
-	return (size);
+	return (node);
 }
